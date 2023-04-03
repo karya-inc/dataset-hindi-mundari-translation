@@ -1,6 +1,6 @@
 # Hindi to Mundari Translation Dataset Corpus
 
-This corpus contains a collection of sentence pairs that have been translated from Hindi to Mundari. The dataset was created as part of a collaboration between Microsoft Research India, Indian Institute of Technology Kharagpur, and Karya.
+This corpus contains a collection of sentence pairs that have been translated from Hindi to Mundari. The dataset was created as part of a collaboration between Microsoft Research India, Indian Institute of Technology Kharagpur, and Karya. This dataset is realeased under the non-commercial version of the Karya Public License. Please read the "License" section below for a high-level summary of what you are allowed and not allowed to do under this license.
 
 ## Dataset Description
 
